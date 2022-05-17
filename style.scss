@@ -1,0 +1,29 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "node_modules/animate.css/animate.min.css";
+
+.body-bg{
+  background-color: #141519;
+}
+
+.font-base-size{
+  font-size: 1em;
+}
+
+.rating-box{
+  background-color: #212832;
+  width: 370px;
+  border-radius: 20px;
+}
+
+.rounded-circle{
+  background-color: #272e38;
+  font-size: 15px;
+  color: #656c76;
+  border: none;
+}
+
+.btn{
+  background-color: #fc7713;
+}
+
